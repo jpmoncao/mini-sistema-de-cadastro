@@ -11,5 +11,4 @@ O projeto abrange:
   - Importações
   - Funções
  
-Desenvolvido como exercício do curso de Python do Curso em vídeo.
-https://www.cursoemvideo.com/curso/python-3-mundo-3/
+Desenvolvido como exercício do curso Python 3 - Mundo 3, Curso em vídeo: https://www.cursoemvideo.com/curso/python-3-mundo-3/
